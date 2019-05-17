@@ -48,7 +48,7 @@ Você precisa dar permissão para instalação do APK, após finalizar, clique e
     <img src="Imagens/img_guia/cel/img_config1.jpeg" width="250px" />
     <img src="Imagens/img_guia/cel/img_config2.jpeg" width="250px" />
     <img src="Imagens/img_guia/cel/img_config3.jpeg" width="250px" />
-    <img src="Imagens/img_guia/cel/img_config4.jpeg" width="250px" /><br />
+    <img src="Imagens/img_guia/cel/img_config4.jpeg" width="250px" />
     <img src="Imagens/img_guia/cel/img_config5.jpeg" width="250px" />
     <img src="Imagens/img_guia/cel/img_screen.jpeg" width="250px" />
 </p>
@@ -64,15 +64,15 @@ Para realizar modificações no Jogo, é necessário fazer o download do [Projet
 
 2. Importe o Projeto .aia nomeado como *KnightsGame.aia*;
 <p align="center">
-    <img src="Imagens/img_guia/appinventor/img_passo1.png" width="400px">
-    <img src="Imagens/img_guia/appinventor/img_passo2.png" width="400px">
+    <img src="Imagens/img_guia/appinventor/img_passo1.png" width="550px">
+    <img src="Imagens/img_guia/appinventor/img_passo2.png" width="550px">
 </p>
 
 3. Abra o projeto e realize as modificações que deseja no Jogo em Designer ou Blocks;
 <p align="center">
-    <img src="Imagens/img_guia/appinventor/img_passo3.png" width="400px">
+    <img src="Imagens/img_guia/appinventor/img_passo3.png" width="550px">
 </p>
 
-3. Pronto, agora você pode Gerar um APK para jogar ou um Exportar um Projeto .aia em sua maquina para outras pessoas visualizarem suas modificações.
+4. Pronto, agora você pode Gerar um APK para jogar ou um Exportar um Projeto .aia em sua maquina para outras pessoas visualizarem suas modificações.
 
 > **OBS:** A plataforma **MIT App Inventor** com o domínio *ai2.appinventor.mit.edu* possui limitação de 10MB para geração de APK. Você pode gerar um *Projeto .aia* e exportar para a plataforma MIT App Inventor com domínio *code.appinventor.mit.edu* e seguir os mesmos passos acima ou realizar todo o processo direto nesse outro domínio.
