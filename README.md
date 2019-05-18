@@ -9,7 +9,7 @@
 ## O que é MIT App Inventor ?
 
 <p align="center">
-    <img src="Imagens/logoappinventor.png" width="70px"/>
+    <img src="Imagens/logoAppInventor.png" width="70px"/>
 </p>
 
 MIT App Inventor, também conhecido como App Inventor for Android, é uma aplicação de código aberto originalmente criada pela Google, e atualmente mantida pelo Massachusetts Institute of Technology (MIT).
