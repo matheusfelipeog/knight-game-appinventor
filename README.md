@@ -91,7 +91,7 @@ Para realizar modificações no Jogo, é necessário fazer o download do [Projet
 
 ## Contribuição
 Siga os passos abaixo para contribuir:
-1. Faça o *fork* do projeto (<https://github.com/matheusfelipeog/knight-game-appinventor>)
+1. Faça o *fork* do projeto (<https://github.com/matheusfelipeog/knight-game-appinventor.git>)
 2. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/nome_modificação`)
 3. Faça o *commit* (`git commit -m "Descreva sua modificação"`)
 4. *Push* (`git push origin feature/nome_modificação`)
@@ -110,7 +110,7 @@ Atráves da Galeria também é possível ter acesso ao Projeto [Knight Game](ai2
 
 - [Tiny PNG](https://tinypng.com/) - Otimização de Imagens/Sprites PNG;
 
-- [Tiny JPG](https://tinyjpg.com/) - Otimização de Imagens/Sprites JPG;
+- [Tiny JPG](https://tinyjpg.com/) - Otimização de Imagens/Sprites JPG.
 
 ## Créditos
 #### Professor
