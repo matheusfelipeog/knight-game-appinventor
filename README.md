@@ -114,7 +114,7 @@ Atráves da Galeria também é possível ter acesso ao Projeto [Knight Game](ai2
 
 ## Créditos
 #### Professor
-- [Wagner Barth](http://barth.com.br/blog/?page_id=29) - Responsável pela introdução ao MIT App Inventor.
+- [Wagner Barth](https://www.linkedin.com/in/wagner-barth-5ba7611/) - Responsável pela apresentação e introdução ao MIT App Inventor.
 #### Imagens/Sprites
 - [Craftpix](https://craftpix.net/freebies/2d-fantasy-knight-free-sprite-sheets/) - Sprites Knights;
 
