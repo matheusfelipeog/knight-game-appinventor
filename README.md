@@ -1,5 +1,5 @@
 # Knight Game
-> Um jogo android com movimentação de personagem, efeito parallax, efeitos sonoros e morte.
+> Um jogo android com movimentação de sprites, efeito parallax, efeitos sonoros e morte.
 
 <p align="center">
     <img src="Imagens/knightgame.gif" />
@@ -24,9 +24,9 @@ Ele permite que os recém-chegados à programação de computador criem aplicati
 
 ## O jogo
 
-Knight Game tem como objetivo mostrar a capacidade da plataforma MIT App Inventor, cujo objetivo não é o desenvolvimento de jogos para Android, e sim aplicações simples para quem está entrando no mundo da programação. 
+Knight Game tem como objetivo mostrar a capacidade da plataforma MIT App Inventor, cujo foco não é o desenvolvimento de jogos para Android, e sim aplicações simples para quem está entrando no mundo da programação. 
 
-O Jogo possui diversas funcionalidades que podem ser bases para outros projetos, como **Movimentação de Sprite**(Imagem de personagem/objetos) que dará uma boa noção de como é feito a movimentação em jogos de diversas plataformas; Criação de **Efeito Parallax** que simula a movimentação do fundo em uma velocidade mais lenta do que as imagens de primeiro plano, assim dando o efeito de profundidade, para junto com o personagem dar o efeito de movimentação desejado e **Efeitos Sonoros** que da vida aos movimentos dos sprites.
+O Jogo possui diversas funcionalidades que podem ser bases para outros projetos, como: **Movimentação de Sprite**(Imagem de personagem/objetos) que dará uma boa noção de como é feito a movimentação em jogos de diversas plataformas; Criação de **Parallax** que simula a movimentação do fundo em uma velocidade mais lenta do que as imagens de primeiro plano, assim dando a ilusão de profundidade, para junto com o personagem dar o efeito de movimentação desejado e **Efeitos Sonoros** que da vida aos movimentos dos sprites.
 
 **OBS:** *O jogo é criado exclusivamente para o Sistema Operacional Android*
 
@@ -100,7 +100,7 @@ Siga os passos abaixo para contribuir:
 ## Galeria MIT
 MIT App Inventor possui sua propría galeria, onde é possível compartilhar seus projetos para que a comunidade possar testar, modificar e compartilhar.
 
-Atráves da Galeria também é possível ter acesso ao Projeto [Knight Game](ai2.appinventor.mit.edu/?galleryId=4747606480257024).
+Atráves da Galeria também é possível ter acesso ao Projeto [Knight Game](http://ai2.appinventor.mit.edu/?galleryId=4747606480257024).
 
 ## Ferramentas Utilizadas
 
@@ -120,6 +120,8 @@ Atráves da Galeria também é possível ter acesso ao Projeto [Knight Game](ai2
 
 - [Craftpix](https://craftpix.net/freebies/free-cartoon-forest-game-backgrounds/) - Backgrounds Forest;
 
+- [Open Game Art](https://opengameart.org/content/ui-set-1) - Barra de Vida;
+
 - [Open Game Art](https://opengameart.org/content/onscreen-controls-8-styles) - Sprites do Controle;
 
 - [Freepik - from Flaticon](https://www.flaticon.com/free-icon/axe_1043547) - Logo do APK.
@@ -134,6 +136,8 @@ Atráves da Galeria também é possível ter acesso ao Projeto [Knight Game](ai2
 - [Zapsplat](https://www.zapsplat.com/music/sword-swing-swipe-slash-body-with-squelch/) - Efeito sonoro de Ataque do Cavaleiro Inimigo;
 
 - [Open Game Art](https://opengameart.org/content/hurt-death-sound-effect-for-character) - Efeito sonoro para Morte;
+
+- [The Mushroom Kingdom](https://themushroomkingdom.net/media/smw/wav) - Efeito sonoro Game Over;
 
 - [Free Sound](https://freesound.org/people/LittleRobotSoundFactory/sounds/270416/) - Efeito sonoro para os Passos.
 
