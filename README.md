@@ -1,3 +1,9 @@
+![App inventor 2](https://img.shields.io/badge/app%20inventor-v2-blue.svg)
+![Game version](https://img.shields.io/badge/game%20version-v2.1-blue.svg)
+[![License](https://img.shields.io/github/license/matheusfelipeog/knight-game-appinventor.svg)](https://github.com/matheusfelipeog/knight-game-appinventor/blob/master/LICENSE)
+
+***
+
 # Knight Game
 > Um jogo android com movimentação de sprites, efeito parallax, efeitos sonoros e morte.
 
@@ -9,7 +15,7 @@
 ## O que é MIT App Inventor ?
 
 <p align="center">
-    <img src="assets/images/logoAppInventor.png" width="70px"/>
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560674001/knight_game/logoAppInventor_bokjby.png" width="70px"/>
 </p>
 
 MIT App Inventor, também conhecido como App Inventor for Android, é uma aplicação de código aberto originalmente criada pela Google, e atualmente mantida pelo Massachusetts Institute of Technology (MIT).
@@ -17,7 +23,7 @@ MIT App Inventor, também conhecido como App Inventor for Android, é uma aplica
 Ele permite que os recém-chegados à programação de computador criem aplicativos de software para o sistema operacional Android. Ele usa uma interface gráfica, muito semelhante ao do zero e da interface do usuário StarLogo TNG, que permite aos usuários arrastar e soltar objetos visuais para criar um aplicativo que pode ser executado em dispositivos Android.
 
 <p align="center">
-    <img src="assets/images/appinventor.gif" width="550px"/>
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673711/knight_game/appinventor_f62fy4.gif" width="550px"/>
 </p>
 
 **Fonte:** [Wikipédia](https://pt.wikipedia.org/wiki/App_Inventor)</p>
@@ -33,27 +39,27 @@ O Jogo possui diversas funcionalidades que podem ser bases para outros projetos,
 ## Instalação
 Para instalação do jogo, é necessário que faça o download do [Arquivo APK](/KnightsGame.apk) em um aparelho Android ou Emulador Android.
 
-<img src="assets/images/img_guia/tutorial_mobile/img_download.png" />
+<img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673968/knight_game/tutorial_mobile/img_download_bfojf5.png" />
 
 Após download, vá até ***Meus Arquivos***
 
 Abra a pasta ***Download*** e clique no arquivo APK instalado nomeado como *KnightsGame.apk*
 
 <p align="center">
-    <img src="assets/images/img_guia/tutorial_mobile/img_arquivos.jpeg" width="250px" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673965/knight_game/tutorial_mobile/img_arquivos_chpnpa.jpg" width="250px" />
     <br />
-    <img src="assets/images/img_guia/tutorial_mobile/img_download.jpeg" width="250px"/>
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673967/knight_game/tutorial_mobile/img_download_udrenc.jpg" width="250px"/>
 </p>
 
 Você precisa dar permissão para instalação do APK, após finalizar, clique em **ABRIR** ou em **CONCLUÍDO**, como mostra os passos abaixo:
 
 <p align="center">
-    <img src="assets/images/img_guia/tutorial_mobile/img_config1.jpeg" width="250px" />
-    <img src="assets/images/img_guia/tutorial_mobile/img_config2.jpeg" width="250px" />
-    <img src="assets/images/img_guia/tutorial_mobile/img_config3.jpeg" width="250px" />
-    <img src="assets/images/img_guia/tutorial_mobile/img_config4.jpeg" width="250px" />
-    <img src="assets/images/img_guia/tutorial_mobile/img_config5.jpeg" width="250px" />
-    <img src="assets/images/img_guia/tutorial_mobile/img_screen.jpeg" width="250px" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673969/knight_game/tutorial_mobile/img_config1_bvw2wt.jpg" width="250px" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673969/knight_game/tutorial_mobile/img_config2_kztarw.jpg" width="250px" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673971/knight_game/tutorial_mobile/img_config3_zak8ad.jpg" width="250px" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673968/knight_game/tutorial_mobile/img_config4_qklk82.jpg" width="250px" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673967/knight_game/tutorial_mobile/img_config5_gzfgk5.jpg" width="250px" />
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673971/knight_game/tutorial_mobile/img_screen_lpbdsl.jpg" width="250px" />
 </p>
 
 ***Pronto, agora divirta-se*** 🎮
@@ -64,26 +70,26 @@ Você precisa dar permissão para instalação do APK, após finalizar, clique e
 
 Para realizar modificações no Jogo, é necessário fazer o download do [Projeto .aia](/KnightsGame.aia) em sua maquina e seguir os seguintes passos:
 
-<img src="assets/images/img_guia/tutorial_appinventor/img_download_aia.png" />
+<img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673950/knight_game/tutorial_appinventor/img_download_aia_q7msee.png" />
 
 1. Faça seu cadastro/login na plataforma do [MIT App Inventor](http://ai2.appinventor.mit.edu) com sua conta da google;
 
 2. Importe o Projeto .aia nomeado como *KnightsGame.aia*;
 <p align="center">
-    <img src="assets/images/img_guia/tutorial_appinventor/img_passo1.png" width="550px">
-    <img src="assets/images/img_guia/tutorial_appinventor/img_passo2.png" width="550px">
-    <img src="assets/images/img_guia/tutorial_appinventor/img_passo3.png" width="550px">
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673959/knight_game/tutorial_appinventor/img_passo1_rve0cl.png" width="550px">
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673959/knight_game/tutorial_appinventor/img_passo2_t7fgga.png" width="550px">
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673959/knight_game/tutorial_appinventor/img_passo3_p2z8vn.png" width="550px">
 </p>
 
 3. Abra o projeto e realize as modificações que deseja no Jogo nos campos **Designer** ou **Blocks**;
 <p align="center">
-    <img src="assets/images/img_guia/tutorial_appinventor/img_passo4.png" width="550px">
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673960/knight_game/tutorial_appinventor/img_passo4_yddhrl.png" width="550px">
 </p>
 
 4. Pronto, agora você pode Gerar um APK para jogar ou Exportar um Projeto .aia em sua maquina para outras pessoas visualizarem seu código.
 <p align="center">
-    <img src="assets/images/img_guia/tutorial_appinventor/img_passo5.png" width="550px">
-    <img src="assets/images/img_guia/tutorial_appinventor/img_passo6.png" width="550px">
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673954/knight_game/tutorial_appinventor/img_passo5_dhunf9.png" width="550px">
+    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673963/knight_game/tutorial_appinventor/img_passo6_ltajh1.png" width="550px">
 </p>
 
 
