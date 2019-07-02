@@ -1,5 +1,6 @@
 ![App inventor 2](https://img.shields.io/badge/app%20inventor-v2-blue.svg)
 ![Game version](https://img.shields.io/badge/game%20version-v2.1-blue.svg)
+[![Code Download](https://img.shields.io/badge/code%20download-1k%2B-green.svg)](http://ai2.appinventor.mit.edu/?galleryId=4747606480257024)
 [![License](https://img.shields.io/github/license/matheusfelipeog/knight-game-appinventor.svg)](https://github.com/matheusfelipeog/knight-game-appinventor/blob/master/LICENSE)
 
 ***
