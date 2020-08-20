@@ -1,5 +1,5 @@
 ![App inventor 2](https://img.shields.io/badge/app%20inventor-v2-blue.svg)
-![Game version](https://img.shields.io/badge/game%20version-v2.1-blue.svg)
+![Game version](https://img.shields.io/badge/game%20version-v2.1.1-blue.svg)
 [![Code Download](https://img.shields.io/badge/code%20download-2k%2B-green.svg)](http://ai2.appinventor.mit.edu/?galleryId=4747606480257024)
 [![License](https://img.shields.io/github/license/matheusfelipeog/knight-game-appinventor.svg)](https://github.com/matheusfelipeog/knight-game-appinventor/blob/master/LICENSE)
 
@@ -38,9 +38,15 @@ O Jogo possui diversas funcionalidades que podem ser bases para outros projetos,
 **OBS:** *O jogo é criado exclusivamente para o Sistema Operacional Android*
 
 ## Instalação
-Para instalação do jogo, é necessário que faça o download do [Arquivo APK](/KnightsGame.apk) em um aparelho Android ou Emulador Android.
+Para instalação do jogo, é necessário que faça o download do Arquivo APK em um aparelho Android ou Emulador Android. Clique no botão abaixo para ir até as versões lançadas do APK e baixe a mais recente.
 
-<img src="./assets/images/tutorial_mobile/img_download_bfojf5.png" />
+Caso não possua descompactador de arquivos em seu aparelho android, baixe o arquivo de extensão **`.apk`**. Caso contrário, poderá baixar um dos arquivos compactados e descompacta-lo em seu aparelho e seguir os passos abaixo.
+
+<p align="center">
+    <a href="https://github.com/matheusfelipeog/knight-game-appinventor/releases" target="_blank">
+        <img src="https://img.shields.io/badge/Download-v2.1.1-blue?style=for-the-badge" alt="Download do APK" width="250px" />
+    </a>
+</p>
 
 Após download, vá até ***Meus Arquivos***
 
